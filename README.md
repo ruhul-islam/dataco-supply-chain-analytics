@@ -111,9 +111,9 @@ Every First Class order has exactly DELAY_DAYS = 1 with zero variation across 27
 
 ## Dataset
 
-DataCo Supply Chain Dataset — Fabian Constante, Instituto Politecnico de Leiria  
-Source: https://data.mendeley.com/datasets/8gx2fvg2k6/5  
-180,519 rows covering global supply chain operations across clothing, sports, and electronics categories.
+DataCo Supply Chain Dataset 
+Source: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+180,519 rows covering global supply chain operations.
 
 ---
 
